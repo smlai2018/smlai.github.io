@@ -11,6 +11,6 @@ navbar:
   - text: Topics
     menu:
     - text: Introduction
-      href: intro.html
+      href: index.html
     - text: Raster mapping example
       href: about.html
