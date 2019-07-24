@@ -1,8 +1,12 @@
 name: "Gaby-website"
 navbar:
-  title: "My Website"
   left:
-    - text: "Home"
+  - text: Home
+    menu:
+    - text: Introduction
       href: index.html
-    - text: "About"
+    - text: About
       href: about.html
+  right:
+  - text: About
+    href: about.html
