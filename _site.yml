@@ -1,13 +1,10 @@
 name: "Gaby-website"
 navbar:
-
   left:
   - text: Introduction
     href: index.html
   
   right:
-  - text: Topics
-    menu:
     - text: Introduction
       href: index.html
     - text: Raster mapping example
