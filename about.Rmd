@@ -1,0 +1,9 @@
+---
+title: "R skills"
+---
+
+## open another plot window
+x11()
+
+## example code to R console
+example(barplot)
