@@ -4,3 +4,4 @@ title: "My Website"
 
 Hello, Website!
 
+![My best figure ever](figures/Rplot_smlai_homePage.png)
